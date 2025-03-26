@@ -92,6 +92,6 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Created and maintained by **[Your Name](https://github.com/Swarup2908)**.
+Created and maintained by **[Swarup](https://github.com/Swarup2908)**.
 
 Happy Networking! 🚀
